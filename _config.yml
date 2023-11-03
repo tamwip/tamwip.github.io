@@ -20,7 +20,7 @@ url                      : https://tamwip.github.io # the base hostname & protoc
 #baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "tamwip/tamwip.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : /assets/pictures/pointer.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : /assets/image/pointer.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Tamir's World" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/pictures/tamir.jpg"
+  avatar           : "/assets/image/tamir.jpg"
   bio              : "Product Design Engineer + 3D Generalist"
   location         : "London, UK"
   links:
