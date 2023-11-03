@@ -1,0 +1,11 @@
+main:
+  - title: "about"
+    url: /about/
+  - title: "work"
+    url: /work/
+  - title: "blog"
+    url: /blog/
+  - title: "tools + edc"
+    url: /tools/
+  - title: "wip"
+    url: /wip/
