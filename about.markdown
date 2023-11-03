@@ -1,10 +1,9 @@
 ---
 layout: single
+title: About Me
 permalink: /about/
 author_profile: true
 ---
-
-# About Me
 
 - 💽 Open-source advoate. (*if you're ever in pain, just remember i willingly switch from photoshop to gimp*)
 - 💻 Linux enthusiast. (*please see above*)
