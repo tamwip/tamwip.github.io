@@ -36,7 +36,7 @@ Whilst I was completing the 365 daily design challenge, I learnt about [fractal]
 
 The simple complexity and randomness of every fractal I saw inspired me to create my own fractal designs. By this point in my year long design journey I was using Blender almost daily so it felt only right to once again delete the default cube only to add it back and mess around with displacement nodes.
 
-{% include gallery caption="Daily Design 199-209 - TAMZLY365" %}
+{% include gallery caption=" " %}
 
 Creating abstract art is so fun and rewarding because there's no blueprint to guide you or any rules for you to follow. You kind of just make whatever you want and put it out into the world.
 
