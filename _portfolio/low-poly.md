@@ -10,18 +10,18 @@ sidebar:
   - title: "Context"
     text: "TAMZLY365"
 gallery:
-  - url: /assets/images/low-poly/212.jpg
-    image_path: /assets/images/low-poly/212-th.jpg
-  - url: /assets/images/low-poly/213.jpg
-    image_path: /assets/images/low-poly/213-th.jpg
-  - url: /assets/images/low-poly/214.jpg
-    image_path: /assets/images/low-poly/214-th.jpg
-  - url: /assets/images/low-poly/215.jpg
-    image_path: /assets/images/low-poly/215-th.jpg
-  - url: /assets/images/low-poly/216.jpg
-    image_path: /assets/images/low-poly/216-th.jpg
-  - url: /assets/images/low-poly/217.jpg
-    image_path: /assets/images/low-poly/217-th.jpg
+  - url: /assets/images/low-poly/212.png
+    image_path: /assets/images/low-poly/212-th.png
+  - url: /assets/images/low-poly/213.png
+    image_path: /assets/images/low-poly/213-th.png
+  - url: /assets/images/low-poly/214.png
+    image_path: /assets/images/low-poly/214-th.png
+  - url: /assets/images/low-poly/215.png
+    image_path: /assets/images/low-poly/215-th.png
+  - url: /assets/images/low-poly/216.png
+    image_path: /assets/images/low-poly/216-th.png
+  - url: /assets/images/low-poly/217.png
+    image_path: /assets/images/low-poly/217-th.png
 ---
 
 I think as a 3D artist, it's very easy to overcomplicate designs to the point where every additional detail has diminishing returns on the overall composition. During the 365 daily design challenge, I explored a lot of areas within 3D modelling but one thing that constantly bugged me was how sometimes it felt like I didn't have enough time to model what I was envisioning, texture it all and then render it out (r.i.p my 3060Ti). This ended with me feeling like I rushed a piece I was really looking forward to create and that's not a healthy head space for any artist let alone one taking part in a daily design challenge.
