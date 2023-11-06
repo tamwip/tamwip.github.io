@@ -32,7 +32,7 @@ gallery:
 
 Okay so this collection is probably one of my favourite design collections I've done. At around day 80 I got really into retrofuturism and became **obsessed** with posters from the 1900s. I was already dabbling in creating acid rave flyers at the time so I had a neat idea of re-creating some vintage posters but using modern day technology as the main product. These are posters which would have been placed in newspapers or on the back of cereal boxes.
 
-{% include gallery caption="Daily Design 212-217 - TAMZLY365" %}
+{% include gallery caption="Daily Design vintage posters - TAMZLY365" %}
 
 Never underestimate the power of texture overlays when working on graphic design posters or flyers. They probably carry most of the design in these posters and really tie together the feeling that they're from the past.
 
