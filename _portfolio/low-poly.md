@@ -30,4 +30,4 @@ I think as a 3D artist, it's very easy to overcomplicate designs to the point wh
 
 Creating the low-poly collection gave me a sense of relief each day; being able to finish a design earlier than usual *and* having time to cook dinner put a smile on my face for the first time in a few months of TAMZLY365. It also forced me to work in a new area of design I hadn't really touched before. I've been intrigued by low-poly modelling since I started in Blender but I never really understood how something so simplistic can look so good.
 
-I have to give credit where credit is due when I say [Polygun Runway](https://polygonrunway.com/) really helped with wrapping my head around low-poly modelling. Be sure to check him out for some amazing low-poly scene renders.
+I have to give credit where credit is due when I say Roman Klčo at [Polygun Runway](https://polygonrunway.com/) really helped with wrapping my head around low-poly modelling. Be sure to check him out for some amazing low-poly scene renders.
