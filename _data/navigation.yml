@@ -1,11 +1,9 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Work"
-    url: /work/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "Blog"
     url: /blog/
   - title: "Tools + EDC"
     url: /tools/
-  - title: "WIPs"
-    url: /wip/
