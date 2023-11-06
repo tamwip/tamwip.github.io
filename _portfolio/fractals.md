@@ -2,7 +2,7 @@
 title: "Fractals"
 excerpt: "3D modelling exploration focusing on fractal designs at microscopic levels"
 header:
-  image: /assets/images/fractals/fractals-th.png
+  image: /assets/images/fractals/fractals.png
   teaser: /assets/images/fractals/fractals-th.png
 sidebar:
   - title: "Programs"
