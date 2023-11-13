@@ -31,13 +31,6 @@ I'm not bashing the Apple ecosystem at all, I actually really enjoy using Apple 
 
 # The Consistency of Apples
 
-<p style="text-align: center;">
-<video autoplay loop width=480px>
-<source src="/blog/images/plankton-prison.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</p>
-
 Apple are very consistent with their device releases, they normally get released around the same time each year, every year. 
 
 We can also predict which devices will be releasing and when for the next few years. This allows people to plan their upgrades very conveniently and with Apple's trade in program, it's easier than ever to upgrade when a new model of whatever device you have is released.
@@ -45,6 +38,13 @@ We can also predict which devices will be releasing and when for the next few ye
 Being 'trapped' in this ecosystem and constant upgrade cycle made me feel limited in what hardware I was able to use and I wanted to find a way out.
 
 # The Slow Burn
+
+<p style="text-align: center;">
+<video autoplay loop width=480px>
+<source src="/blog/images/plankton-prison.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</p>
 
 ## Apple Watch
 
