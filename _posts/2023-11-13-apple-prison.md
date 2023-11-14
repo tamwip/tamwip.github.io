@@ -60,7 +60,7 @@ I also don't have to charge my 5610 as it's solar powered, +1 for saving the pla
 
 ## Apple MacBook Pro
 
-The next to go was my MacBook Pro which was easy enough as I was switching to open-source hardware and software around a similar time. I purchased a **Starbook MK V1** from Starlabs and it's been my daily driver using Pop_OS! for over a year.
+The next to go was my MacBook Pro which was easy enough as I was switching to open-source hardware and software around a similar time. I purchased a **Starbook MK VI** from Starlabs and it's been my daily driver using Pop_OS! for over a year.
 
 No complaints so far, the customer service has been amazing and it's the perfect size at 14". 
 
