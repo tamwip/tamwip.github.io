@@ -90,7 +90,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:tamirwork@proton.me"
     - label: "CV"
-      icon: "fab fa-fw fa-readcv"
+      icon: "fab fa-fw fa-file-text-o"
       url: "https://read.cv/tamir"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
