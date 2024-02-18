@@ -11,7 +11,7 @@ Around the time I switched out my Apple iPhone for a Google Pixel and replaced s
 
 That included Spotify which was a gateway to a very important aspect of my life: music.
 
-Within the space of a day I went from a plethora of playlists, over 20,000 liked songs and being able discover new music weekly to... nothing.
+Within the space of a day I went from a plethora of playlists, over 20,000 liked songs and being able to discover new music weekly to... nothing.
 
 <p style="text-align: center;">
 <video autoplay loop width=480px>
