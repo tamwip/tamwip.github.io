@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Tools
-permalink: /tools/
+title: Uses
+permalink: /uses/
 author_profile: true
 ---
 
