@@ -15,7 +15,7 @@ author_profile: true
 # Education
 
 - ✏️ **Msc Advanced Product Design Engineering and Manufacturing** at *Kingston University, London UK* (WIP ETC 2026)
-- 🔧 **BEng Mechanical Engineering** at *The University of Warwick, Coventry UK*
+- 🔧 **BEng Mechanical Engineering** at *The University of Warwick, Coventry UK* (2017 - 2020)
 
 # WIPs
 
