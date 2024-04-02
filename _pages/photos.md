@@ -1,8 +1,10 @@
 ---
-layout: single
 title: Photos
+layout: collection
 permalink: /photos/
-author_profile: true
+collection: portfolio
+entries_layout: grid
+classes: wide
 ---
 
 For my daily photo dump check out my [PixelFed](https://pixelfed.social/tamir).
