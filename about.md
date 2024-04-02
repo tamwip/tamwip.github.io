@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 ---
 
-- 💽 **Open-source advocate** (*if you're ever in pain, just remember i willingly switch from photoshop to gimp*)
+- 💽 **Open-source advocate** (*if you're ever in pain, just remember i willingly switched from photoshop to gimp*)
 - 💻 **Linux devotee** (*please see above*)
 - 🎨 **"Art" creator** (*most of the time i'm sketching product concepts or trying to reduce my vertex count in blender, but when i get the chance the odd stickman gets drawn*)
 - 🎮 **Gaming enthusiast** (*my steam backlog will take approximately 23.72 years to complete, got to start somewhere ey?*)
@@ -14,7 +14,7 @@ author_profile: true
 
 # Education
 
-- ✏️ **Msc Advanced Product Design Engineering and Manufacturing** at *Kingston University, London UK* (WIP ETC 2026)
+- ✏️ **MSc Advanced Product Design Engineering and Manufacturing** at *Kingston University, London UK* (WIP ETC 2026)
 - 🔧 **BEng Mechanical Engineering** at *The University of Warwick, Coventry UK* (2017 - 2020)
 
 # WIPs
