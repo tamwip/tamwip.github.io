@@ -5,5 +5,9 @@ main:
     url: /portfolio/
   - title: "Blog"
     url: /blog/
+  - title: "Photos"
+    url: /photos/
+  - title: "Videos"
+    url: /videos/
   - title: "Uses"
     url: /uses/
