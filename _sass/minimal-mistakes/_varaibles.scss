@@ -1,10 +1,9 @@
 /* system typefaces */
-$serif: "JetBrains Mono", serif !default;
-$sans-serif: "JetBrains Mono", sans-serif !default;
-$monospace: "JetBrains Mono", monospace !default;
+$serif: "JetBrainsMono", serif !default;
+$sans-serif: "JetBrainsMono", sans-serif !default;
+$monospace: "JetBrainsMono", monospace !default;
 
 
-/* $global-font-family: $monospace !default; */
-$global-font-family: 'JetBrains Mono', sans-serif !default;
+$global-font-family: $monospace !default;
 $header-font-family: $monospace !default;
 $caption-font-family: $monospace !default;
