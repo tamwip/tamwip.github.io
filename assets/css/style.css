@@ -479,5 +479,5 @@ header+figure {
 
 /* change colour of link on hover */
 a:hover {
-    background-color: #a6d189;
+    color: #a6d189;
   }
