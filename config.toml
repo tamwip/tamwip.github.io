@@ -7,32 +7,32 @@ title = "TAMIRR"
 [menu]
 
   [[menu.main]]
-    name = "About"
+    name = "ABOUT"
     url = "/about"
     weight = 10
 
   [[menu.main]]
-    name = "Blog"
+    name = "BLOG"
     url = "/blog"
     weight = 10
 
   [[menu.main]]
-    name = "Videos"
-    url = "/videos"
+    name = "MEDIA"
+    url = "/media"
     weight = 20
 
   [[menu.main]]
-    name = "Uses"
+    name = "USES"
     url = "/uses"
     weight = 30
 
   [[menu.main]]
-    name = "Links"
+    name = "LINKS"
     url = "/links"
     weight = 40
 
   [[menu.main]]
-    name = "Contact"
+    name = "CONTACT"
     url = "/contact"
     weight = 50
 
