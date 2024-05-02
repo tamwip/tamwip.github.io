@@ -48,7 +48,6 @@ body {
     background-color: var(--color-background);
     color: var(--color-text);
     font-family: "JetBrainsMono", monospace;
-    font: var(--font-size)/var(--line-height) var(--font-mono);
     margin: 0 auto;
 }
 
