@@ -1,5 +1,5 @@
 ---
-title: "Blank First Page"
+title: "BLANK-FIRST-PAGE"
 pubDate: "2023-11-30"
 ---
 

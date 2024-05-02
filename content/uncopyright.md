@@ -1,5 +1,5 @@
 ---
-title: Uncopyright
+title: UNCOPYRIGHT
 ---
 
 Everything on this website is uncopyrighted. Being in a simulation, most our ideas aren't unique or original. So I figured why claim anything I've put out?

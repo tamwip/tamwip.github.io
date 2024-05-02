@@ -1,5 +1,5 @@
 ---
-title: About
+title: ABOUT
 ---
 
 - 💽 **Open-source advocate** (*if you're ever in pain, just remember i willingly switched from photoshop to gimp*)
