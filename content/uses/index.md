@@ -1,5 +1,5 @@
 ---
-title: Uses
+title: USES
 lastmod: 2024-05-01
 ---
 
@@ -10,24 +10,24 @@ Most of what is in this list is my ***actual*** everyday carry. I take these thi
 If you're looking for something that's not listed on this page, feel free to [contact me](/contact) and ask.
 
 
-## Hardware and Carry
+## HARDWARE + CARRY
 
 
 
-## Operating Systems
+## OPERATING SYSTEMS
 
 I use [Arch](https://archlinux.org/) (btw) on my laptop and [Pop_OS!](https://pop.system76.com/) on my PC. Pop_OS! was my first Linux distribution and I still recommend it to those who are seeking ease of use when it comes to gaming on Linux.
 
 I use [CalyxOS](https://calyxos.org/) on my Pixel.
 
-## Services
+## SERVICES
 
 
 
-## Applications
+## APPLICATIONS
 
 
 
-## Colours
+## COLOURS
 
 I normally cycle through [Dracula](https://draculatheme.com/), [Catppuccin](https://catppuccin.com/) and [Nord](https://www.nordtheme.com/) depending on the time of year. To prevent mass distraction, I use the same black and white hex codes (my own) and just change the colours between.

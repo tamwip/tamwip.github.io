@@ -1,5 +1,5 @@
 ---
-title: "BLANK-FIRST-PAGE"
+title: "BLANK FIRST PAGE"
 pubDate: "2023-11-30"
 ---
 
