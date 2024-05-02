@@ -9,7 +9,7 @@ title: ABOUT
 - 🚲 **Cycle zealot** (*living in london, i can cycle to most places quicker than i can drive to them*)
 - 🍔 **Burger connoisseur** (*the art of burger creation is a keen interest of mine and i eat burgers every friday*)
 
-# Education
+# EDUCATION
 
 - ✏️ **MSc Advanced Product Design Engineering and Manufacturing** 
    - *Kingston University, London UK* (WIP ETC 2026)
