@@ -1,0 +1,19 @@
+</main>
+
+<footer class="site-footer">
+    <p><a href="/uncopyright">Uncopyrighted</a> by Tamir. Last built {{ now.Format "January" }} {{ now.Format "2" | humanize }}, {{ now.Format "2006" }}.</p>
+    <p>Built with <a href="https://gohugo.io" target="_blank" rel="noopener noreferrer">Hugo</a> and Burgers <span> 🍔 </span> somewhere on planet Earth <span> 🌍 </span>.</p>
+
+    <ul class="menu menu-social">
+      {{ range.Site.Menus.social -}}
+      <li>
+        <a href="{{ .URL }}" target="_blank" rel="noopener noreferrer">
+          {{ partial "icon.html" (dict "icon" .Pre "title" .Name ) }}
+        </a>
+      </li>
+      {{- end }}
+    </ul>
+</footer>
+
+</body>
+</html>

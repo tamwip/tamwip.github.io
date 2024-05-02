@@ -1,0 +1,12 @@
+{{ partial "header.html" . }}
+
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+{{ partial "posts.html" . }}
+
+<p class="archive">Do you dare to enter <a href="/archive">the archives</a>? 🔒</p>
+
+{{ partial "footer.html" . }}
+

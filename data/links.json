@@ -1,0 +1,28 @@
+{
+  "links": {
+    "title": "Interesting Folks",
+    "description": "Cool people that inspire me in different ways.",
+    "links": [
+      {
+        "title": "Giacomo Salici",
+        "link": "https://jacksalici.com/",
+        "rss": "https://jacksalici.com/atom.xml"
+      },
+      {
+        "title": "",
+        "link": ""
+      }
+    ]
+  },
+  "youtube": {
+    "title": "YouTube",
+    "description": "Some thought provoking creators in a world that can be quite simple if you don't squint.",
+    "links": [
+      {
+        "title": "Mental Outlaw",
+        "link": "https://www.youtube.com/@MentalOutlaw",
+        "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA"
+      }
+    ]
+  }
+}
