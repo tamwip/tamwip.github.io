@@ -476,3 +476,8 @@ header+figure {
     color: var(--color-subtext);
     font-style: italic;
 }
+
+/* change colour of link on hover */
+a:hover {
+    background-color: #a6d189;
+  }
