@@ -9,19 +9,91 @@
         "rss": "https://jacksalici.com/atom.xml"
       },
       {
-        "title": "",
-        "link": ""
+        "title": "Eric Murphy",
+        "link": "https://ericmurphy.xyz/",
+        "rss": "https://ericmurphy.xyz/index.xml"
       }
     ]
   },
   "youtube": {
     "title": "YOUTUBE",
-    "description": "Some thought provoking creators in a world that can be quite simple if you don't squint.",
+    "description": "Some really cool creators doing interesting things. Not any particular topic and not in any particular order, just content I like watching.",
     "links": [
       {
+        "title": "aChairLeg",
+        "link": "https://www.youtube.com/@aChairLeg"
+      },
+      {
+        "title": "Andrew Bernard AKA TheNardDog",
+        "link": "https://www.youtube.com/@thenarddogcooks"
+      },
+      {
+        "title": "Bill Making Stuff",
+        "link": "https://www.youtube.com/@BillMakingStuff"
+      },
+      {
+        "title": "Chris Piascik",
+        "link": "https://www.youtube.com/@chris-piascik"
+      },
+      {
+        "title": "Evan Monsma",
+        "link": "https://www.youtube.com/@EvanMonsma/videos"
+      },
+      {
+        "title": "Haruki Killing Time",
+        "link": "https://www.youtube.com/@harukikillingtime5020"
+      },
+      {
+        "title": "Hoog",
+        "link": "https://www.youtube.com/@hoogyoutube"
+      },
+      {
+        "title": "Jared Henderson",
+        "link": "https://www.youtube.com/@_jared"
+      },
+      {
+        "title": "Josh Fenn",
+        "link": "https://www.youtube.com/@joshfenn"
+      },
+      {
+        "title": "K Boges",
+        "link": "https://www.youtube.com/@Kboges"
+      },
+      {
+        "title": "Keep Smiling Adventures",
+        "link": "https://www.youtube.com/@KeepSmilingAdventures"
+      },
+      {
         "title": "Mental Outlaw",
-        "link": "https://www.youtube.com/@MentalOutlaw",
-        "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA"
+        "link": "https://www.youtube.com/@MentalOutlaw"
+      },
+      {
+        "title": "N-O-D-E",
+        "link": "https://www.youtube.com/@NODEtv"
+      },
+      {
+        "title": "No Boilerplate",
+        "link": "https://www.youtube.com/@NoBoilerplate"
+      },
+      {
+        "title": "Probably Riding",
+        "link": "https://www.youtube.com/@probablyriding"
+      },
+      {
+        "title": "Shua Films",
+        "link": "https://www.youtube.com/@shua_films"
+      },
+      {
+        "title": "Soulofjaret",
+        "link": "https://www.youtube.com/@soulofjaret"
+      },
+      {
+        "title": "Spencer's Adventures",
+        "link": "https://www.youtube.com/@spencers-adventures"
+      },
+      {
+        "title": "Strain Hunters",
+        "link": "https://www.youtube.com/@strainhunters"
       }
     ]
   }
