@@ -9,11 +9,22 @@ Most of what is in this list is my ***actual*** everyday carry. I take these thi
 
 If you're looking for something that's not listed on this page, feel free to [contact me](/contact) and ask.
 
+---
 
 ## HARDWARE + CARRY
 
-
-
+- Mobile: Pixel 5
+- Wallet: Carhartt Card Holder
+- Laptop: StarLabs Starbook MK V
+- Tablet: iPad Mini
+- Mouse: Logitech MX Master
+- Flask: YETI Rambler
+- Watch: G-Shock DW 5610
+- Pocket Notebook: Field Notes
+- Pen: Rotring 600 + Nitecore NTP31
+- Pencil: Rotring 600
+- Lighter: Zippo
+- Pocket Trash: Fatman
 
 ## OPERATING SYSTEMS
 
