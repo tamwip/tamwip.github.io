@@ -9,9 +9,19 @@
         "rss": "https://jacksalici.com/atom.xml"
       },
       {
+        "title": "Nathaniel Daught",
+        "link": "https://daught.me/",
+        "rss": "https://daught.me/feed/feed.xml"
+      },
+      {
         "title": "Eric Murphy",
         "link": "https://ericmurphy.xyz/",
         "rss": "https://ericmurphy.xyz/index.xml"
+      },
+      {
+        "title": "Cory Dransfeldt",
+        "link": "https://coryd.dev/",
+        "rss": "https://feedpress.me/coryd-all"
       }
     ]
   },
