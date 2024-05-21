@@ -14,4 +14,4 @@ Links to things I currently find interesting or worth thinking about:
 
 ## EVEN MORE LINKS
 
-For a big list of links to personal pages, click [here](http://biglist.terraaeon.com/)
+For a big list of links to personal pages, click [here](http://biglist.terraaeon.com/).
