@@ -22,6 +22,16 @@
         "title": "Cory Dransfeldt",
         "link": "https://coryd.dev/",
         "rss": "https://feedpress.me/coryd-all"
+      },
+      {
+        "title": "Elly Loel",
+        "link": "https://www.ellyloel.com/",
+        "rss": "https://www.ellyloel.com/feed.rss"
+      },
+      {
+        "title": "Max Böck",
+        "link": "https://mxb.dev/",
+        "rss": "https://mxb.dev/feed.xml"
       }
     ]
   },
