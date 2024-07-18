@@ -1,12 +1,11 @@
 ---
-date: 2024-07-01
-tags:
-  - self-development
-  - analog
+title: "THE VALUE OF A NOTEBOOK"
+pubDate: "2024-07-01"
 ---
-## **THE VALUE OF A NOTEBOOK**
 
-#### WHY EVERYONE NEEDS A NOTEBOOK
+**THE VALUE OF A NOTEBOOK**
+
+## WHY EVERYONE NEEDS A NOTEBOOK
 
 A notebook is a blank canvas for any form of expression. You can write in it, you can draw in it, you can use it as a to-do list. The possibilities are *literally* endless. When I say notebooks, I mean physical notebooks. Not any digital note-taking apps. Don't get me wrong, I love Obsidian and I use it everyday, but I'm focusing on physical, analog notebooks in this post.
 
@@ -22,11 +21,13 @@ A [study](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg
 
 They conducted an experiment on 36 students in their early 20s where they flashed certain words in front of them for a few seconds. They asked the students to write out half by hand and type half on a keyboard. All the students had electrodes on their scalps to monitor their brain's electrical signals and they found that there was increased connectivity between the central parts of the brain and the parietal lobe in the outer part of the brain when writing by hand as oppose to typing.
 
-#### MY PERSONAL SETUP
+## MY PERSONAL SETUP
 
 Okay, science stuff out the way, how do we set this up to work?
 
 I personally like to keep mine small, I won't go above A5 in size, and most of the time I use a pocket notebook (more about this later). 
+
+![pocket-organiser](notebook.jpg)
 
 Currently, I have two notebooks in a pocket organiser (seriously, great for organising). One is for the need of paper whenever it is required. Basically for my to-dos, things I want to remember, any interesting ideas I think of, any conversational topics I find interesting, etc.
 
@@ -34,7 +35,7 @@ The second book is my quick sketchbook, this is used to quickly capture ideas th
 
 It also allows me to work on my interests anywhere and at anytime. I'm looking into how art and science are more closely related than we might expect, so my sketchbook is used for ideation of new concepts I want to explore further in a larger sketchbook.
 
-#### WHY WASTE YOUR MONEY, MAKE YOUR OWN NOTEBOOKS!
+## WHY WASTE YOUR MONEY, MAKE YOUR OWN NOTEBOOKS!
 
 I used to collect lots of Field Notes® notebooks and realised how I had just fallen into the consumer trap. Lots of cool pictures of people's EDC setups on [r/EDC](https://www.reddit.com/r/EDC/) led me to believe I needed that little notebook in my arsenal. When I saw that 3 notebooks cost me almost 15 quid, I instantly looked for alternatives.
 
