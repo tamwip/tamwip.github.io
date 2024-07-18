@@ -1,6 +1,5 @@
 baseURL = "https://tamirr.xyz"
 title = "TAMIRR"
-relativeURLS=true
 
 [permalinks]
     post = "/blog/:slug"
