@@ -37,4 +37,4 @@ I used to collect lots of Field Notes® notebooks and realised how I had just fa
 
 Making your own notebooks is stupidly easy. All you need is paper, some card and 2 paperclips.
 
-I'm planning on making a video soon on how I make my own notebooks, so do look out for that on my [YouTube](https://www.youtube.com/@tamirrxyz) channel, but all you need to do is put some sheets together, cut them down to size, fold them in half and then plop two staples in the fold crease. Congratulations, you can now make and infinite number of notebooks.
+I'm planning on making a video soon on how I make my own notebooks, so do look out for that on my [YouTube](https://www.youtube.com/@tamirrxyz) channel, but all you need to do is put some sheets together, cut them down to size, fold them in half and then plop two staples in the fold crease. Congratulations, you can now make an infinite number of notebooks.
