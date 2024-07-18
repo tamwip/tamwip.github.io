@@ -1,7 +1,7 @@
 {{ $src := .Page.Resources.GetMatch (printf "%s" (.Destination | safeURL)) }}
 
 {{ if $src }}
-<figure class="full-width">
+<figure>
   {{ $data := newScratch }}
 
   {{ if gt $src.Width 1100 }}
