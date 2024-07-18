@@ -3,13 +3,11 @@ title: "THE VALUE OF A NOTEBOOK"
 pubDate: "2024-07-01"
 ---
 
-**THE VALUE OF A NOTEBOOK**
-
 ## WHY EVERYONE NEEDS A NOTEBOOK
 
 A notebook is a blank canvas for any form of expression. You can write in it, you can draw in it, you can use it as a to-do list. The possibilities are *literally* endless. When I say notebooks, I mean physical notebooks. Not any digital note-taking apps. Don't get me wrong, I love Obsidian and I use it everyday, but I'm focusing on physical, analog notebooks in this post.
 
-Removing the need for electricity when wanting to write in a notebook also removes the barrier of when and where you can use it and removes any distractions from the endless abyss our phones and mobiles can subject us to. 
+Removing the need for electricity when wanting to write in a notebook also removes the barrier of when and where you can use it and removes any distractions from the endless abyss our digital devices can subject us to. 
 
 This allows me to spend dedicated time to thinking *just* about my thoughts, rather than thinking about my thoughts whilst watching a YouTube video, checking Reddit and adjusting my Polybar config.
 
