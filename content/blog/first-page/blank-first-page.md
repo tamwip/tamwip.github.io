@@ -5,6 +5,6 @@ pubDate: "2023-11-30"
 
 This page is intentionally left blank. As with any good new notebook, always skip the first page.
 
-![blank first page](https://imgur.com/a/Xx738P5)
+![blank first page](/content/blog/first-page/images/notebook.png)
 
 Anyway, it's my 25th Birthday! I've got some celebrating to do and will be right back.
