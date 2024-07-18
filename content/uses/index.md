@@ -15,12 +15,12 @@ If you're looking for something that's not listed on this page, feel free to [co
 
 - Mobile: Pixel 5
 - Wallet: Carhartt Card Holder
-- Laptop: StarLabs Starbook MK V
+- Laptop: StarLabs Starbook MK V, ThinkPad T480 (Custom)
 - Tablet: iPad Mini
 - Mouse: Logitech MX Master
 - Flask: YETI Rambler
 - Watch: G-Shock DW 5610
-- Pocket Notebook: Field Notes
+- Pocket Notebook: Custom
 - Pen: Rotring 600 + Nitecore NTP31
 - Pencil: Rotring 600
 - Lighter: Zippo
@@ -40,7 +40,7 @@ I use [CalyxOS](https://calyxos.org/) on my Pixel.
 - Compositor: [Picom](https://github.com/yshui/picom)
 - Launcher: [Rofi](https://github.com/davatorium/rofi)
 - Terminal: [Alacritty](https://github.com/alacritty/alacritty)
-- File Manager: [PCManFM](https://github.com/lxde/pcmanfm)
+- File Manager: [Thunar](https://github.com/xfce-mirror/thunar)
 
 ## SERVICES
 
