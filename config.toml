@@ -6,6 +6,12 @@ title = "TAMIR"
 
 [menu]
 
+  [[menu.logo]]
+    name = "TAMIR"
+    pre = "logo"
+    url = "https://tamirr.xyz"
+    weight = 10
+
   [[menu.main]]
     name = "BIO"
     url = "/bio"

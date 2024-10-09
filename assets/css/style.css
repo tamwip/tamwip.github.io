@@ -333,8 +333,20 @@ header+figure {
     padding-right: 0;
 }
 
+.site-nav .menu-logo a {
+    padding: 1rem 0.75rem;
+}
+
+.site-nav .menu-logo li:last-child a {
+    padding-right: 0;
+}
+
 @media screen and (max-width: 64rem) {
     .site-nav .menu-social {
+        display: none;
+    }
+
+    .site-nav .menu-logo {
         display: none;
     }
 

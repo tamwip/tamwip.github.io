@@ -1,8 +1,12 @@
 <header class="site-header">
   <nav class="site-nav">
-    <a class="logo" href="{{ .Site.BaseURL }}">
-      {{ .Site.Title }}
-    </a>
+    <ul class="menu menu-logo">
+      {{ range.Site.Menus.logo -}}
+      <li>
+        <a href="{{ .URL }}" target="_blank" rel="noopener noreferrer">
+          {{ partial "icon.html" (dict "icon" .Pre "title" .Name ) }}
+        </a>
+      </li>
 
     <ul class="menu">
       {{ range.Site.Menus.main -}}
