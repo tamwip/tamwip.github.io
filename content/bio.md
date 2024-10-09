@@ -5,6 +5,5 @@ Tamir is an engineer, designer and artist based in London, UK. He is the head ti
 
 ## EDUCATION
 
-2026 **MSc Advanced Product Design Engineering & Manufacturing**, Kingston University, London, UK
-
+2026 **MSc Advanced Product Design Engineering & Manufacturing**, Kingston University, London, UK\
 2020 **BEng Mechanical Engineering**, The University of Warwick, Coventry, UK
