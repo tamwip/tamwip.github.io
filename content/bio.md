@@ -5,16 +5,16 @@ I'm an engineer by trade, designer by night and artist by drive. I'm currently w
 
 Welcome to my digital studio. Here you'll find my three eyes...
 
-all my ideas, my interests and my inventions, throughout my time on planet Earth.
+...all my ideas, my interests and my inventions, throughout my time on planet Earth.
 
-# EDUCATION
+## EDUCATION
 
 - ✏️ **MSc Advanced Product Design Engineering and Manufacturing** 
    - *Kingston University, London UK* (WIP ETC 2026)
 - 🔧 **BEng Mechanical Engineering** 
    - *The University of Warwick, Coventry UK* (2017 - 2020)
 
-# WIPs
+## WIPs
 
 - 📟 'PiDA' device
 - 🧪 HomeLab server
