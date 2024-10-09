@@ -1,5 +1,6 @@
 baseURL = "https://tamirr.xyz"
 title = "TAMIR"
+logo = "/images/logo.png"
 
 [permalinks]
     post = "/blog/:slug"
