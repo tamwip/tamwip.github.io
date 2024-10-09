@@ -1,9 +1,7 @@
 ---
 title: BIOGRAPHY
 ---
-I'm an engineer by trade, designer by night and artist by drive. I'm currently working on [Notalegt](https://notalegt.xyz/) - a lifelong project born from the synthesis between my three fields of work.
-
-Welcome to my digital studio. Here you'll find all my ideas, my interests and my inventions throughout my time on planet Earth.
+Tamir is an engineer, designer and artist based in London, UK. He is the head tinkerer at [Notalegt](https://notalegt.xyz/) - a lifelong project born from the synthesis between his three fields of work.
 
 ## EDUCATION
 
