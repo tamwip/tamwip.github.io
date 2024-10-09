@@ -52,7 +52,7 @@ I use [CalyxOS](https://calyxos.org/) on my Pixel.
     - PC: [Thunderbird](https://github.com/thunderbird)
     - Mobile: [K9 Mail](https://github.com/thunderbird/thunderbird-android)
 - Messaging:
-    - [Signal](https://github.com/signalapp) ⭐
+    - [Signal](https://github.com/signalapp) 
     - [Element](https://github.com/element-hq)
     - [QKSMS](https://github.com/moezbhatti/qksms)
 - Writing:
