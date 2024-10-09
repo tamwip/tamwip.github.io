@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="192.32884mm"
+   height="49.7332mm"
+   viewBox="0 0 192.32884 49.7332"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0250911"
+     inkscape:cx="521.41707"
+     inkscape:cy="81.456175"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="115.17406"
+       y="443.70853"
+       width="990.16876"
+       height="449.99664"
+       id="rect236" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-12.676864,-142.74748)">
+    <g
+       id="g467"
+       transform="translate(-17.796211,19.161725)">
+      <text
+         xml:space="preserve"
+         transform="scale(0.26458333)"
+         id="text234"
+         style="font-size:192px;white-space:pre;shape-inside:url(#rect236);display:inline;fill:#000000"><tspan
+           x="115.17383"
+           y="614.35979"
+           id="tspan529"><tspan
+             style="font-family:'Gabriel Weiss\' Friends Font';-inkscape-font-specification:'Gabriel Weiss\' Friends Font'"
+             id="tspan527">TAMIR</tspan></tspan></text>
+      <path
+         style="fill:#000000;stroke-width:0.264583"
+         d="m 80.469554,146.08771 c -32.43308,2.74035 -47.537015,4.95705 -47.537015,4.95705 0,0 -2.383449,3.00651 -0.338246,3.55787 2.045203,0.55136 25.819579,-1.1962 25.819579,-1.1962 l 16.395043,-0.7293 z"
+         id="path402" />
+      <path
+         style="fill:#000000;stroke-width:0.264583"
+         d="m 99.337467,143.72378 c 35.847993,1.45111 69.468713,-1.59124 86.033373,-2.53389 16.56465,-0.94264 16.56465,-0.94264 16.56465,-0.94264 l -0.72679,4.8877 -56.1994,4.32241 -46.897033,-0.19312 z"
+         id="path404" />
+      <path
+         style="fill:#000000;stroke-width:0.264583"
+         d="m 169.17954,147.60756 c 15.66566,-1.16689 21.1125,-0.26197 23.86366,0.094 2.75116,0.35591 2.59178,-3.57267 2.59178,-3.57267 l -9.08942,0.21514 -16.8431,2.35741 z"
+         id="path406" />
+    </g>
+  </g>
+</svg>
