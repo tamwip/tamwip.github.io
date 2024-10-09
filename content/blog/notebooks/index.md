@@ -35,6 +35,6 @@ It also allows me to work on my interests anywhere and at anytime. I'm looking i
 
 I used to collect lots of Field Notes® notebooks and realised how I had just fallen into the consumer trap. Lots of cool pictures of people's EDC setups on [r/EDC](https://www.reddit.com/r/EDC/) led me to believe I needed that little notebook in my arsenal. When I saw that 3 notebooks cost me almost 15 quid, I instantly looked for alternatives.
 
-Making your own notebooks is stupidly easy. All you need is paper, some card and 2 paperclips.
+Making your own notebooks is stupidly easy. All you need is paper, some card and 2 staples.
 
 I'm planning on making a video soon on how I make my own notebooks, so do look out for that on my [YouTube](https://www.youtube.com/@tamirrxyz) channel, but all you need to do is put some sheets together, cut them down to size, fold them in half and then plop two staples in the fold crease. Congratulations, you can now make an infinite number of notebooks.
