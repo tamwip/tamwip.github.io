@@ -4,9 +4,6 @@ title = "TAMIR"
 [permalinks]
     post = "/blog/:slug"
 
-[params]
-    logo = "/images/logo.png"
-
 [menu]
 
   [[menu.main]]
