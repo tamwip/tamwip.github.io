@@ -4,7 +4,7 @@
     <ul class="menu menu-logo">
       {{ range.Site.Menus.logo -}}
       <li>
-        <a href="{{ .URL }}" target="_blank" rel="noopener noreferrer">
+        <a href="{{ .URL }}">
           {{ partial "icon.html" (dict "icon" .Pre "title" .Name ) }}
         </a>
       </li>
