@@ -296,7 +296,7 @@ header+figure {
     max-width: 96rem;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: left;
     margin: 0 auto;
 }
 
