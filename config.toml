@@ -9,7 +9,7 @@ title = "TAMIR"
   [[menu.logo]]
     name = "TAMIR"
     pre = "logo"
-    url = "https://tamirr.xyz"
+    url = "/"
     weight = 10
 
   [[menu.main]]
