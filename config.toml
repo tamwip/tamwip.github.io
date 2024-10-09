@@ -7,8 +7,8 @@ title = "TAMIRR"
 [menu]
 
   [[menu.main]]
-    name = "ABOUT"
-    url = "/about"
+    name = "BIO"
+    url = "/bio"
     weight = 10
 
   [[menu.main]]

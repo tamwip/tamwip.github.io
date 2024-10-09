@@ -1,9 +1,9 @@
 ---
 title: USES
-lastmod: 2024-05-01
+lastmod: 2024-10-01
 ---
 
-I suppose EDC and tools are quite a big part of my life and have been since I was a child where I was apparently very obsessive over all kinds of stationery. I constantly changed my pencil case, trying to find the best fit for all my pens and pencils - and I guess that habit just kept forming over time to where we are now!
+EDC and tools are quite a big part of my life and have been since I was a child where I was apparently very obsessive over all kinds of stationery. I constantly changed my pencil case, trying to find the best fit for all my pens and pencils - and I guess that habit just kept forming over time to where we are now!
 
 Most of what is in this list is my ***actual*** everyday carry. I take these things with me to work, when I'm travelling, when I'm at university and probably only leave them at home if I'm not allowed to bring a bag somewhere.
 
@@ -13,32 +13,30 @@ If you're looking for something that's not listed on this page, feel free to [co
 
 ## HARDWARE + CARRY
 
-- Mobile: Pixel 5
+- Mobile: Pixel 8a
 - Wallet: Carhartt Card Holder
 - Laptop: StarLabs Starbook MK V, ThinkPad T480 (Custom)
-- Tablet: iPad Mini
+- Writing Deck: iPad Mini + ProtoArc XK01 TP
 - Mouse: Logitech MX Master
 - Flask: YETI Rambler
 - Watch: G-Shock DW 5610
-- Pocket Notebook: Custom
+- Pocket Notebook: Custom-made
 - Pen: Rotring 600 + Nitecore NTP31
-- Pencil: Rotring 600
+- Pencil: Rotring 600 + Pentel P209
 - Lighter: Zippo
 - Pocket Trash: Fatman
 
 ## OPERATING SYSTEMS
 
-I use [Arch](https://archlinux.org/) (btw) on my laptop and [Pop_OS!](https://pop.system76.com/) on my PC. Pop_OS! was my first Linux distribution and I still recommend it to those who are seeking ease of use when it comes to gaming on Linux.
+I use [Debian](https://www.debian.org/) on my laptop and PC for stability and compatability.
 
 I use [CalyxOS](https://calyxos.org/) on my Pixel.
 
-### ARCH CONFIG
+### DEBIAN CONFIG
 
-- Window Manager: [i3](https://github.com/i3/i3)
-- Display Manager: [SDDM](https://github.com/sddm/sddm)
-- Bar: [Polybar](https://github.com/polybar/polybar)
-- Compositor: [Picom](https://github.com/yshui/picom)
-- Launcher: [Rofi](https://github.com/davatorium/rofi)
+- Window Manager: [XFCE](https://xfce.org/)
+- Display Manager: [LightDM](https://github.com/canonical/lightdm)
+- Launcher: [Albert](https://github.com/albertlauncher/albert)
 - Terminal: [Alacritty](https://github.com/alacritty/alacritty)
 - File Manager: [Thunar](https://github.com/xfce-mirror/thunar)
 
@@ -62,7 +60,7 @@ I use [CalyxOS](https://calyxos.org/) on my Pixel.
     - LaTeX Processing: [LyX](https://www.lyx.org/) ⭐
     - Code-editor: [VSCodium](https://github.com/VSCodium) ⭐
 - Media:
-    - Music: [DeaDBeeF](https://github.com/DeaDBeeF-Player)
+    - Music: [Quod Libet](https://github.com/quodlibet/quodlibet)
     - Video: [VLC](https://github.com/videolan) ⭐
 - Graphics: 
     - 3D: [Blender](https://github.com/blender) ⭐
