@@ -34,7 +34,7 @@ I use [CalyxOS](https://calyxos.org/) on my Pixel.
 
 ### DEBIAN CONFIG
 
-- Window Manager: [XFCE](https://xfce.org/)
+- Desktop Environment: [XFCE](https://xfce.org/)
 - Display Manager: [LightDM](https://github.com/canonical/lightdm)
 - Launcher: [Albert](https://github.com/albertlauncher/albert)
 - Terminal: [Alacritty](https://github.com/alacritty/alacritty)
