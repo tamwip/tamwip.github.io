@@ -11,7 +11,7 @@ If you're looking for something that's not listed on this page, feel free to [co
 
 ---
 
-## HARDWARE + CARRY
+### HARDWARE + CARRY
 
 - Mobile: Pixel 8a
 - Wallet: Carhartt Card Holder
@@ -26,13 +26,13 @@ If you're looking for something that's not listed on this page, feel free to [co
 - Lighter: Zippo
 - Pocket Trash: Fatman
 
-## OPERATING SYSTEMS
+### OPERATING SYSTEMS
 
 I use [Debian](https://www.debian.org/) on my laptop and PC for stability and compatability.
 
 I use [CalyxOS](https://calyxos.org/) on my Pixel.
 
-### DEBIAN CONFIG
+#### DEBIAN CONFIG
 
 - Desktop Environment: [XFCE](https://xfce.org/)
 - Display Manager: [LightDM](https://github.com/canonical/lightdm)
@@ -40,13 +40,13 @@ I use [CalyxOS](https://calyxos.org/) on my Pixel.
 - Terminal: [Alacritty](https://github.com/alacritty/alacritty)
 - File Manager: [Thunar](https://github.com/xfce-mirror/thunar)
 
-## SERVICES
+### SERVICES
 
 - E-mail: [ProtonMail](https://github.com/ProtonMail)
 - Password Manager: [Bitwarden](https://github.com/bitwarden/)
 - Domain Registrar: [Porkbun](https://github.com/porkbundomains)
 
-## APPLICATIONS
+### APPLICATIONS
 
 - E-mail: 
     - PC: [Thunderbird](https://github.com/thunderbird)
@@ -72,6 +72,6 @@ I use [CalyxOS](https://calyxos.org/) on my Pixel.
     - PC: [RSSGuard](https://github.com/martinrotter/rssguard)
     - Mobile: [Feeder](https://github.com/spacecowboy/Feeder)
 
-## COLOURS
+### COLOURS
 
 I normally cycle through [Dracula](https://draculatheme.com/), [Catppuccin](https://catppuccin.com/) and [Nord](https://www.nordtheme.com/) depending on the time of year. To prevent mass distraction, I use the same black and white hex codes (my own) and just change the colours between.

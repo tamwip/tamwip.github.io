@@ -8,10 +8,10 @@ I've gathered some of my favourite websites and inspirations and put them on thi
 
 {{<links>}}
 
-## CURRENT INTERESTS
+### CURRENT INTERESTS
 
 Links to things I currently find interesting or worth thinking about:
 
-## EVEN MORE LINKS
+### EVEN MORE LINKS
 
 For a big list of links to personal pages, click [here](http://biglist.terraaeon.com/).
