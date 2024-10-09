@@ -40,19 +40,19 @@ title = "TAMIR"
     name = "YouTube"
     pre = "youtube"
     url = "https://youtube.com/@tamirrxyz"
-    weight = 10
+    weight = 20
     
   [[menu.social]]
     name = "Notalegt"
     pre = "notalegt"
     url = "https://notalegt.xyz/"
-    weight = 20
+    weight = 30
 
   [[menu.social]]
     name = "RSS Feed"
     pre = "rss"
     url = "/index.xml"
-    weight = 30
+    weight = 40
 
 
 [markup]
