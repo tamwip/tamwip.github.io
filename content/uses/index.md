@@ -52,20 +52,20 @@ I use [CalyxOS](https://calyxos.org/) on my Pixel.
     - PC: [Thunderbird](https://github.com/thunderbird)
     - Mobile: [K9 Mail](https://github.com/thunderbird/thunderbird-android)
 - Messaging:
-    - [Signal](https://github.com/signalapp) 
+    - [Signal](https://github.com/signalapp)
     - [Element](https://github.com/element-hq)
     - [QKSMS](https://github.com/moezbhatti/qksms)
 - Writing:
-    - Notes: [Obsidian](https://github.com/obsidianmd) ⭐
-    - LaTeX Processing: [LyX](https://www.lyx.org/) ⭐
-    - Code-editor: [VSCodium](https://github.com/VSCodium) ⭐
+    - Notes: [Obsidian](https://github.com/obsidianmd)
+    - LaTeX Processing: [LyX](https://www.lyx.org/)
+    - Code-editor: [VSCodium](https://github.com/VSCodium)
 - Media:
     - Music: [Quod Libet](https://github.com/quodlibet/quodlibet)
-    - Video: [VLC](https://github.com/videolan) ⭐
+    - Video: [VLC](https://github.com/videolan)
 - Graphics: 
-    - 3D: [Blender](https://github.com/blender) ⭐
-    - Illustration: [Krita](https://github.com/KDE/krita) ⭐
-    - Vectors: [Inkscape](https://github.com/inkscape) ⭐
+    - 3D: [Blender](https://github.com/blender)
+    - Illustration: [Krita](https://github.com/KDE/krita)
+    - Vectors: [Inkscape](https://github.com/inkscape)
     - RAW Image Processing: [Darktable](https://github.com/darktable-org)
     - Image Manipulation: [GIMP](https://github.com/GNOME/gimp)
 - RSS: 
