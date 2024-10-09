@@ -7,7 +7,6 @@ title = "TAMIR"
 [menu]
 
   [[menu.logo]]
-    name = "TAMIR"
     pre = "logo"
     url = "/"
     weight = 10
