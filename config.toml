@@ -5,7 +5,7 @@ title = "TAMIR"
     post = "/blog/:slug"
 
 [params]
-    logo = "/logo.png"
+    logo = static/logo.png
 
 [menu]
 
