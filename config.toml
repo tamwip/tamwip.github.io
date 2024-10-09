@@ -40,6 +40,12 @@ title = "TAMIR"
     name = "YouTube"
     pre = "youtube"
     url = "https://youtube.com/@tamirrxyz"
+    weight = 10
+    
+  [[menu.social]]
+    name = "Notalegt"
+    pre = "notalegt"
+    url = "https://notalegt.xyz/"
     weight = 20
 
   [[menu.social]]
