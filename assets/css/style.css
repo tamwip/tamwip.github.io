@@ -375,7 +375,7 @@ header+figure {
 }
 
 .hero img {
-    border-radius: 25%;
+    border-radius: 1%;
     width: 100%;
 }
 
@@ -479,5 +479,5 @@ header+figure {
 
 /* change colour of link on hover */
 a:hover {
-    color: #a6d189;
+    color: #5e81ac;
   }
