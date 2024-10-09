@@ -13,15 +13,15 @@
     --border-radius: 1rem;
     --border-radius-small: 0.5rem;
 
-    --color-background: #eff1f5;
-    --color-background-alt: #dce0e8;
-    --color-background-code: #1e293b;
-    --color-text: #232634;
-    --color-text-bright: #1e293b;
-    --color-text-strong: #232634;
-    --color-subtext: #ea76cb;
-    --color-primary: #df8e1d;
-    --color-accent: #04a5e5;
+    --color-background: #eceff4;
+    --color-background-alt: #e5e9f0;
+    --color-background-code: #eceff4;
+    --color-text: #2e3440;
+    --color-text-bright: #2e3440;
+    --color-text-strong: #2e3440;
+    --color-subtext: #b48ead;
+    --color-primary: #ebcb8b;
+    --color-accent: #5e81ac;
 }
 
 /* Dark theme */
@@ -375,7 +375,7 @@ header+figure {
 }
 
 .hero img {
-    border-radius: 50%;
+    border-radius: 25%;
     width: 100%;
 }
 
