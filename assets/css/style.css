@@ -21,7 +21,7 @@
     --color-text-strong: #2e3440;
     --color-subtext: #d08770;
     --color-primary: #81a1c1;
-    --color-accent: #5e81ac;
+    --color-accent: #2e3440;
 }
 
 /* Dark theme */
@@ -35,7 +35,7 @@
         --color-text-strong: #2e3440;
         --color-subtext: #d08770;
         --color-primary: #81a1c1;
-        --color-accent: #5e81ac;
+        --color-accent: #2e3440;
     }
 }
 
