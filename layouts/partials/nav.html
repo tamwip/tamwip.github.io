@@ -19,14 +19,6 @@
       {{- end }}
     </ul>
 
-    <ul class="menu menu-social">
-      {{ range.Site.Menus.social -}}
-      <li>
-        <a href="{{ .URL }}" target="_blank" rel="noopener noreferrer">
-          {{ partial "icon.html" (dict "icon" .Pre "title" .Name ) }}
-        </a>
-      </li>
-      {{- end }}
-    </ul>
+    
   </nav>
 </header>
