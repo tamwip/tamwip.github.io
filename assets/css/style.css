@@ -357,7 +357,7 @@ header+figure {
     }
 
     .site-nav .menu-logo {
-        display: none;
+        padding-right: 0;
     }
 
     .site-nav .menu li:last-child a {
