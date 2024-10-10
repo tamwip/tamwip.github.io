@@ -3,11 +3,7 @@ title: USES
 lastmod: 2024-10-01
 ---
 
-EDC and tools are a big part of my life and I've developed my own ritualistic approach to what I keep on me at all times. The things I use all have a seperate purpose. I could easily use my phone for most of the things on this list but I don't. The philosophy of compartmentalising allows me to focus on the task at hand and utilise the selected technology I need with intention.
-
-Most of what is in this list is my ***actual*** everyday carry. I take these things with me everywhere and probably only leave them at home if I'm not allowed to bring a bag somewhere.
-
-If you're looking for something that's not listed on this page, feel free to [contact me](/contact) and ask.
+EDC and tools are a big part of Tamir's life and he's developed his own ritualistic approach to what he keeps on him at all times. The things he uses all have a seperate purpose. You could easily use a phone for most of the things on this list but he doesn't. The philosophy of compartmentalising allows Tamir to focus on the task at hand and utilise the selected technology he needs with intention.
 
 ---
 
@@ -31,8 +27,8 @@ If you're looking for something that's not listed on this page, feel free to [co
 
 ### OPERATING SYSTEMS
 
-I use [Debian](https://www.debian.org/) on my laptop and PC for stability and compatability.\
-I use [CalyxOS](https://calyxos.org/) on my Pixel.
+**Computing**: [Debian](https://www.debian.org/) for stability and compatability.\
+**Phone**: [CalyxOS](https://calyxos.org/).
 
 #### DEBIAN CONFIG
 
