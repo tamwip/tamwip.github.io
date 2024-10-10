@@ -16,7 +16,7 @@ EDC and tools are a big part of Tamir's life and he's developed his own ritualis
 **Camera**: GoPro Hero 10 Black, Sony A6000\
 **Flask**: YETI Rambler\
 **Watch**: G-Shock DW 5610\
-**Pocket Notebook**: 90mm x 140mm Dot-grid (Custom)\
+**Pocket Notebook**: 90mm × 140mm Dot-grid (Custom)\
 **Pen**: Rotring 600 + Nitecore NTP31\
 **Pencil**: Rotring 600 + Pentel P209\
 **Lighter**: Zippo\
