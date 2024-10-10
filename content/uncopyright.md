@@ -2,9 +2,7 @@
 title: UNCOPYRIGHT
 ---
 
-Everything on this website is uncopyrighted. Being in a simulation, most our ideas aren't unique or original. So I figured why claim anything I've put out?
-
-The code for this website was taken directly from [Eric Murphy](https://ericmurphy.xyz/), who also uncopyrighted his website, with a few tweaks here and there.
+Everything on this website is uncopyrighted. Seldom, if ever, is a single individual solely responsible for an idea or a concept. Rather, individuals are influenced by other individuals, who in turn were influenced by other individuals, and so on. A history of almost anything, then, can be viewed as an unending stream of interrelated events.. So I figured why claim anything I've put out?
 
 Attribution is appreciated, but not required.
 

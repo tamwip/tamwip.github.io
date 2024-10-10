@@ -12,13 +12,8 @@ title = "TAMIR"
     weight = 10
 
   [[menu.main]]
-    name = "BIO"
-    url = "/bio"
-    weight = 10
-
-  [[menu.main]]
-    name = "BLOG"
-    url = "/blog"
+    name = "WORKS"
+    url = "/works"
     weight = 10
 
   [[menu.main]]
@@ -32,14 +27,19 @@ title = "TAMIR"
     weight = 30
 
   [[menu.main]]
-    name = "LINKS"
-    url = "/links"
+    name = "BLOG"
+    url = "/blog"
     weight = 40
+
+  [[menu.main]]
+    name = "BIOGRAPHY"
+    url = "/biography"
+    weight = 50
 
   [[menu.main]]
     name = "CONTACT"
     url = "/contact"
-    weight = 50
+    weight = 60
 
   [[menu.social]]
     name = "YouTube"
