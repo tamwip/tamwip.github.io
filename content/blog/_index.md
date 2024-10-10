@@ -1,7 +1,5 @@
 ---
 title: BLOG
 ---
-
 ### SELECTED THOUGHTS
-
 ---
