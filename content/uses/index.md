@@ -25,8 +25,8 @@ EDC and tools are a big part of Tamir's life and he's developed his own ritualis
 
 ### OPERATING SYSTEMS
 
-**Computing**: [Debian](https://www.debian.org/) for stability and compatability.\
-**Phone**: [CalyxOS](https://calyxos.org/).
+**Computing**: [Debian](https://www.debian.org/)\
+**Phone**: [CalyxOS](https://calyxos.org/)
 
 #### DEBIAN CONFIG
 
