@@ -2,7 +2,7 @@
 title: USES
 ---
 
-EDC and tools are a big part of Tamir's life and he's developed his own ritualistic approach to what he keeps on him at all times. The things he uses all have a seperate purpose. You could easily use a phone for most of the things on this list but he doesn't. The philosophy of compartmentalising allows Tamir to focus on the task at hand and utilise the selected technology he needs with intention.
+EDC and tools are a big part of Tamir's life and he's developed his own ritualistic approach to what he keeps on him at all times. The things he uses all have a seperate purpose. You could easily use a phone for most of the things on this list but by rejecting convenience, Tamir has found affection for niche articles. The philosophy of compartmentalising allows Tamir to focus on the task at hand and utilise the selected technology he needs with intention.
 
 ---
 ### HARDWARE + CARRY
