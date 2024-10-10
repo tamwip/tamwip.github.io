@@ -26,6 +26,7 @@ If you're looking for something that's not listed on this page, feel free to [co
 - Pen: Rotring 600 + Nitecore NTP31
 - Pencil: Rotring 600 + Pentel P209
 - Lighter: Zippo
+- Multi-Tool: Leatherman Rebar EDC
 - Pocket Trash: Fatman
 
 ### OPERATING SYSTEMS
