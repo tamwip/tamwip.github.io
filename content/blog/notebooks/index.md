@@ -9,13 +9,15 @@ Removing the need for electricity when wanting to write in a notebook also remov
 
 This allows me to spend dedicated time to thinking *just* about my thoughts, rather than thinking about my thoughts whilst watching a YouTube video, checking Reddit and adjusting my Polybar config.
 
-If you're like me and are constantly thinking about multiple things, sometimes leading to you getting overwhelmed, getting them out of your head and onto paper - into the real world, lets you explore them from different angles.
+If you're like me and are constantly thinking about multiple things, sometimes leading to you getting overwhelmed, getting your thoughts out of your head and onto paper - into the real world, lets you explore them from different angles.
 
 That may sound a bit self-helpy, but I've found not only has writing allowed me to think about *how I think* a bit better, it's also improved my productivity - writing notes by hand actually helps you remember more of what you're writing. 
 
-A [study](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219945/full) by F. R. (Ruud) van der Weel and Audrey van der Meer at the Norwegian University of Science and Technology goes into detail about how when writing by hand, each motion is unique to different letters whereas typing on a keyboard only has a single motion for each key.
+A [study](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219945/full) by F. R. (Ruud) van der Weel and Audrey van der Meer at the Norwegian University of Science and Technology discusses how when writing by hand, each motion is unique to different letters whereas typing on a keyboard only has a single motion for each key.
 
 They conducted an experiment on 36 students in their early 20s where they flashed certain words in front of them for a few seconds. They asked the students to write out half by hand and type half on a keyboard. All the students had electrodes on their scalps to monitor their brain's electrical signals and they found that there was increased connectivity between the central parts of the brain and the parietal lobe in the outer part of the brain when writing by hand as oppose to typing.
+
+Simply, they remembered more when writing by hand than when typing.
 
 ## MY PERSONAL SETUP
 
@@ -31,10 +33,10 @@ The second book is my quick sketchbook, this is used to quickly capture ideas th
 
 It also allows me to work on my interests anywhere and at anytime. I'm looking into how art and science are more closely related than we might expect, so my sketchbook is used for ideation of new concepts I want to explore further in a larger sketchbook.
 
-## WHY WASTE YOUR MONEY, MAKE YOUR OWN NOTEBOOKS!
+## INFINITE NOTEBOOK GLITCH
 
 I used to collect lots of Field Notes® notebooks and realised how I had just fallen into the consumer trap. Lots of cool pictures of people's EDC setups on [r/EDC](https://www.reddit.com/r/EDC/) led me to believe I needed that little notebook in my arsenal. When I saw that 3 notebooks cost me almost 15 quid, I instantly looked for alternatives.
 
 Making your own notebooks is stupidly easy. All you need is paper, some card and 2 staples.
 
-I'm planning on making a video soon on how I make my own notebooks, so do look out for that on my [YouTube](https://www.youtube.com/@tamirrxyz) channel, but all you need to do is put some sheets together, cut them down to size, fold them in half and then plop two staples in the fold crease. Congratulations, you can now make an infinite number of notebooks.
+I've probably made a video about how to make your own notebooks on my [YouTube](https://www.youtube.com/@tamirrxyz) channel, but all you need to do is put some sheets together, cut them down to size, fold them in half and then plop two staples in the fold crease. Congratulations, you can now make an infinite number of notebooks.
