@@ -2,7 +2,7 @@
 title: BIOGRAPHY
 ---
 
-Tamir is an engineer, designer and artist based in London, UK. Probably best known for his solo project throughout 2020-2021 entitled "365", Tamir utilises a 'show your work' approach, illustrating the thought processes and psychological drive of consistent creation. On a more practical level, this means perfection in art doesn't exist. He believes that the process is equally, if not more, important as the output.
+Tamir is an engineer, designer and artist based in London, UK. Probably best known for his solo project throughout 2020-2021 entitled "365", Tamir utilises a 'show your work' approach, illustrating the thought processes and psychological drive of consistent creation. On a more practical level, this means sketchlines, guide boxes and screws are rarely removed, erased or hidden. He believes that the process is equally, if not more, important as the output.
 
 Fond of the utilitarianism of older technology, Tamir often incorporates a vintage aesthetic into his art and product design. This fascination informs his creative process, as he finds inspiration in the tactile, nostalgic qualities of materials and forms from the past.
 
