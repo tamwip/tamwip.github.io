@@ -10,8 +10,8 @@
     --font-size: 1rem;
     --line-height: 1;
 
-    --border-radius: 1rem;
-    --border-radius-small: 0.5rem;
+    --border-radius: 0.5rem;
+    --border-radius-small: 0.1rem;
 
     --color-background: #eceff4;
     --color-background-alt: #e5e9f0;
