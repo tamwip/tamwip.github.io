@@ -4,6 +4,4 @@ title: WORKS
 ### SELECTED WORKS
 ---
 
-![209](209.jpg)\
-![208](208.jpg)\
-![207](207.jpg)
+<img src="209.jpg" alt="209" width="200"/>
