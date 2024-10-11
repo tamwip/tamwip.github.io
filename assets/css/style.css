@@ -179,7 +179,7 @@ header+figure {
 .content {
     display: grid;
     grid-template-columns: repeat(12, minmax(0, 1fr));
-    max-width: 96rem;
+    max-width: 72rem;
     padding: 3rem 0;
     margin: 0 auto 2rem;
 
@@ -386,7 +386,7 @@ header+figure {
 /* Home page */
 
 .hero {
-    max-width: 75%;
+    max-width: 100%;
     display: flex;
     margin-bottom: 4rem;
 }
