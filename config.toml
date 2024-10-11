@@ -22,24 +22,19 @@ title = "TAMIR"
     weight = 20
 
   [[menu.main]]
-    name = "USES"
-    url = "/uses"
-    weight = 30
-
-  [[menu.main]]
     name = "BLOG"
     url = "/blog"
-    weight = 40
+    weight = 30
 
   [[menu.main]]
     name = "BIOGRAPHY"
     url = "/biography"
-    weight = 50
+    weight = 40
 
   [[menu.main]]
     name = "CONTACT"
     url = "/contact"
-    weight = 60
+    weight = 50
 
   [[menu.social]]
     name = "YouTube"

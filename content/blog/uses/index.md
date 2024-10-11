@@ -1,8 +1,9 @@
 ---
-title: USES
+title: "CARRYOLOGY"
+pubDate: "2024-10-01"
 ---
 
-EDC and tools are a big part of Tamir's life and he's developed his own ritualistic approach to what he keeps on him at all times. The things he uses all have a seperate purpose. You could easily use a phone for most of the things on this list but by rejecting convenience, Tamir has found affection for niche articles. The philosophy of compartmentalising allows Tamir to focus on the task at hand and utilise the selected technology he needs with intention.
+EDC and tools are a big part of my life and I've developed my own ritualistic approach to what I keeps on me at all times. The things I use all have a seperate purpose. You could easily use a phone for most of the things on this list but by rejecting convenience, I've has found affection for niche articles. The philosophy of compartmentalising allows me to focus on the task at hand and utilise the selected technology I need with intention.
 
 ---
 ### HARDWARE + CARRY
