@@ -4,7 +4,7 @@ title: BIOGRAPHY
 
 Tamir is an engineer, designer and artist based in London, UK. Probably best known for his solo project throughout 2020-2021 entitled "365", Tamir utilises a 'show your work' approach, illustrating the thought processes and psychological drive of consistent creation. On a more practical level, this means sketchlines, guide boxes and screws are rarely removed, erased or hidden. He believes that the process is equally, if not more, important as the output.
 
-Fond of the utilitarianism of older technology, Tamir often incorporates a vintage aesthetic into his art and product design. This fascination informs his creative process, as he finds inspiration in the tactile, nostalgic qualities of materials and forms from the past. Examples of this predilection are most prominent throughout days 100-200 in "365".
+Fond of the utilitarianism of older technology, Tamir often incorporates a vintage aesthetic into his art and product design. This predilection informs his creative process, as he finds inspiration in the tactile, nostalgic qualities of materials and forms from the past.
 
 Tamir is a staunch supporter of the open-source movement, actively contributing to the community by sharing his designs and collaborating on projects that emphasize transparency, accessibility and innovation. He believes that open-source not only empowers designers and engineers but also leads to improved creation through collective knowledge.
 
