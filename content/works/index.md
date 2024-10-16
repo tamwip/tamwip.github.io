@@ -6,12 +6,6 @@ title: WORKS
 
 |                   |                             |                        |
 | ----------------- | --------------------------- | ---------------------- |
-| ![209](209.jpg)   |                             | **"365": 209**         |
-| ![208](208.jpg)   |                             | **"365": 208**         |
-| ![207](207.jpg)   |                             | **"365": 207**         |
-| ![206](206.jpg)   |                             | **"365": 206**         |
-| ![205](205.jpg)   |                             | **"365": 205**         |
-| ![204](204.jpg)   |                             | **"365": 204**         |
-| ![203](203.jpg)   |                             | **"365": 203**         |
-| ![202](202.jpg)   |                             | **"365": 202**         |
-| ![201](201.jpg)   |                             | **"365": 201**         |
+| ![209](209.jpg)   | **"365": Fractal**          | **About**              |
+|                   | Tamir                       | For this section of "365", Tamir looked at the construction of fractal forms and created his own collection\ of geoemtrical landscapes using mathematical expressions.
+
