@@ -4,8 +4,12 @@ title: WORKS
 ### SELECTED WORKS
 ---
 
-|                   |                             |                        |
-| ----------------- | --------------------------- | ---------------------- |
-| ![209](209.jpg)   | **"365": Fractal**          | **About**              |
-|                   | Tamir                       | For this section of "365", Tamir looked at the construction of fractal forms and created his own collection\ of geoemtrical landscapes using mathematical expressions.
-
+![209](209.jpg)\
+![208](208.jpg)\
+![207](207.jpg)\
+![206](206.jpg)\
+![205](205.jpg)\
+![204](204.jpg)\
+![203](203.jpg)\
+![202](202.jpg)\
+![201](201.jpg)\
