@@ -3,7 +3,7 @@ title: "CARRYOLOGY"
 pubDate: "2024-10-01"
 ---
 
-EDC and tools are a big part of my life and I've developed my own ritualistic approach to what I keeps on me at all times. The things I use all have a seperate purpose. You could easily use a phone for most of the things on this list but by rejecting convenience, I've found affection for niche articles. The philosophy of compartmentalising allows me to focus on the task at hand and utilise the selected technology I need with intention.
+EDC and tools are a big part of my life and I've developed my own ritualistic approach to what I keeps on me at all times. The things I use all have a seperate purpose. You could easily use a phone for most of the things on this list but by rejecting convenience, I've found an affection for niche articles. The philosophy of compartmentalising allows me to focus on the task at hand and utilise the selected technology I need with intention.
 
 ---
 ### HARDWARE + CARRY
