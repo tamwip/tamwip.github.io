@@ -12,8 +12,8 @@ EDC and tools are a big part of my life and I've developed my own ritualistic ap
 **Wallet**: Carhartt Card Holder\
 **Laptop**: StarLabs Starbook MK V, ThinkPad T480 (Custom)\
 **Writer**: iPad Mini + ProtoArc XK01 TP\
-**Reader**: Moaan InkPalm Mini 5 Pro\
-**MP3 Player**: iPod Classic 5th Gen (Custom)\
+**Reader**: PocketBook Verse\
+**MP3 Player**: Sony NW-A45 (MrWalkman Mod)\
 **Camera**: GoPro Hero 10 Black, Sony A6000\
 **Flask**: YETI Rambler\
 **Watch**: G-Shock DW 5610\
