@@ -27,12 +27,12 @@ EDC and tools are a big part of my life and I've developed my own ritualistic ap
 ### OPERATING SYSTEMS
 
 **Computing**: [Debian](https://www.debian.org/)\
-**Phone**: [CalyxOS](https://calyxos.org/)
+**Phone**: [GrapheneOS](https://grapheneos.org/)
 
 #### DEBIAN CONFIG
 
 **Desktop Environment**: [XFCE](https://xfce.org/)\
 **Display Manager**: [LightDM](https://github.com/canonical/lightdm)\
-**Launcher**: [Albert](https://github.com/albertlauncher/albert)\
+**Launcher**: [Ulauncher](https://github.com/Ulauncher/Ulauncher)\
 **Terminal**: [Alacritty](https://github.com/alacritty/alacritty)\
 **File Manager**: [Thunar](https://github.com/xfce-mirror/thunar)
