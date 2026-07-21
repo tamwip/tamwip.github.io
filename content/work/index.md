@@ -1,5 +1,5 @@
 ---
-title: WORKS
+title: WORK
 ---
 ### SELECTED WORKS
 ---
