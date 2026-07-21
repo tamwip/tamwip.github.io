@@ -12,8 +12,8 @@ title = "TAMIR"
     weight = 10
 
   [[menu.main]]
-    name = "WORKS"
-    url = "/works"
+    name = "WORK"
+    url = "/work"
     weight = 10
 
   [[menu.main]]
