@@ -8,17 +8,17 @@ EDC and tools are a big part of my life and I've developed my own ritualistic ap
 ---
 ### HARDWARE + CARRY
 
-**Phone**: Pixel 8a\
+**Phone**: Sony Xperia 10 VII\
 **Wallet**: Carhartt Card Holder\
 **Laptop**: StarLabs Starbook MK V, ThinkPad T480 (Custom)\
 **Writer**: iPad Mini + ProtoArc XK01 TP\
-**Reader**: PocketBook Verse\
+**Reader**: PocketBook Verse + XTEINK X4\
 **MP3 Player**: Sony NW-A45 (MrWalkman Mod)\
 **Camera**: GoPro Hero 10 Black, Sony A6000\
 **Flask**: YETI Rambler\
 **Watch**: G-Shock DW 5610\
 **Pocket Notebook**: 90mm × 140mm Dot-grid (Custom)\
-**Pen**: Rotring 600 + Nitecore NTP31\
+**Pen**: Rotring 800 + Nitecore NTP31\
 **Pencil**: Rotring 600 + Pentel P209\
 **Lighter**: Zippo\
 **Multi-Tool**: Leatherman Rebar EDC\
@@ -27,7 +27,7 @@ EDC and tools are a big part of my life and I've developed my own ritualistic ap
 ### OPERATING SYSTEMS
 
 **Computing**: [Debian](https://www.debian.org/)\
-**Phone**: [GrapheneOS](https://grapheneos.org/)
+**Phone**: [LineageOS](https://linageos.org/)
 
 #### DEBIAN CONFIG
 
