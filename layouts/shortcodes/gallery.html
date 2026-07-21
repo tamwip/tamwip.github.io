@@ -1,0 +1,22 @@
+{{ $images := .Page.Resources.Match "images/*.{jpg,png}" }}
+<div class="gallery-grid">
+  {{ range $i, $img := $images }}
+    {{ $meta := $img.Parent.GetMatch (printf "%s.md" $img.Name) }}
+    {{ $caption := "" }}
+    {{ if $meta }}
+      {{ $caption = $meta.Params.caption }}
+    {{ else }}
+      {{ $caption = $img.Title | default $img.Name }}
+    {{ end }}
+    
+    {{ $thumb := $img.Resize "400x" }}
+    <figure class="gallery-item">
+      <a href="{{ $img.RelPermalink }}" data-lightbox="gallery">
+        <img src="{{ $thumb.RelPermalink }}" loading="lazy" alt="{{ $caption }}">
+      </a>
+      {{ if $caption }}
+        <figcaption>{{ $caption }}</figcaption>
+      {{ end }}
+    </figure>
+  {{ end }}
+</div>
