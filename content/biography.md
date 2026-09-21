@@ -5,7 +5,7 @@ title: BIOGRAPHY
 
 Hey, I'm Tamir — a product design engineer based in London, UK.
 
-I'm probably best known for "365",  project (2020-2021), where I committed to showing my work every single day. Sketchlines, guide boxes or screws — nothing gets hidden or erased. I genuinely believe the process matters just as much, if not more, than the final output. That mindset still shapes how I work today.
+I'm probably best known for my "365" project (2020-2021), where I committed to showing my work every single day. Sketchlines, guide boxes or screws — nothing gets hidden or erased. I genuinely believe the process matters just as much, if not more, than the final output. That mindset still shapes how I work today.
 
 I'm quite fond of the utilitarian charm of older design. There's something about the tactile, nostalgic qualities of materials and forms from the past that keeps inspiring my art and product concepts. If my stuff feels a bit vintage, that's not accidental.
 
