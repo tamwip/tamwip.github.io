@@ -2,13 +2,16 @@
 title: BIOGRAPHY
 ---
 
-Tamir is a product design engineer based in London, UK. Probably best known for his solo project throughout 2020-2021 entitled "365", Tamir utilises a 'show your work' approach, illustrating the thought processes and psychological drive of consistent creation. On a more practical level, this means sketchlines, guide boxes and screws are rarely removed, erased or hidden. He believes that the process is equally, if not more, important as the output.
 
-Fond of the utilitarianism of older design, Tamir often incorporates a vintage aesthetic into his art and product concepts. This predilection informs his creative process, as he finds inspiration in the tactile, nostalgic qualities of materials and forms from the past.
+Hey, I'm Tamir — a product design engineer based in London, UK.
 
-Tamir is a staunch supporter of the open-source movement, actively contributing to the community by sharing his designs and collaborating on projects that emphasise transparency, accessibility and innovation. He believes that open-source not only empowers designers and engineers but also leads to improved creation through collective knowledge.
+I'm probably best known for "365",  project (2020-2021), where I committed to showing my work every single day. Sketchlines, guide boxes or screws — nothing gets hidden or erased. I genuinely believe the process matters just as much, if not more, than the final output. That mindset still shapes how I work today.
 
-Founded from his base in science and the arts, Tamir is the head tinkerer at [Notalegt](https://notalegt.xyz/) - a lifelong project born from the synthesis between his three fields of work. Rooted in engineering, enriched with design, and inspired by art.
+I'm quite fond of the utilitarian charm of older design. There's something about the tactile, nostalgic qualities of materials and forms from the past that keeps inspiring my art and product concepts. If my stuff feels a bit vintage, that's not accidental.
+
+Open-source isn't just a buzzword for me, I actively contribute to the community by sharing designs and collaborating on projects that prioritise transparency, accessibility and innovation. I've seen firsthand how open-source empowers designers and engineers. I love that it leads to better creation through collective knowledge.
+
+At the intersection of science, design and art sits [Notalegt](https://notalegt.xyz/), my lifelong tinkering project. I founded it from a place rooted in engineering, enriched by design and inspired by art. It's a lot like me really — multidisciplinary, curious and always building.
 
 ### EDUCATION
 
