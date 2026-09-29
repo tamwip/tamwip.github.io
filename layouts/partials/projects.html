@@ -3,20 +3,13 @@
   {{- $grouped := $pages.GroupByDate "2006" -}}
   {{- range $grouped -}}
   <h3 class="year-heading">{{ .Key }}</h3>
-  <div class="projects-grid">
+  <div class="projects-list">
     {{- range .Pages -}}
     <article class="project-preview">
-        {{- if .Params.image }}
-        <a href="{{ .RelPermalink }}" class="project-image-link">
-            <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy">
-        </a>
+        <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+        {{- if .Description }}
+        <p class="project-description">{{ .Description }}</p>
         {{- end }}
-        <div class="project-content">
-            <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
-            {{- if .Description }}
-            <p class="project-description">{{ .Description }}</p>
-            {{- end }}
-        </div>
     </article>
     {{- end }}
   </div>
