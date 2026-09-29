@@ -1,9 +1,11 @@
 <section class="posts">
   {{- range .Data.Pages -}}
-  <article class="post-preview">
-    <time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2006-01-02" }}</time>
-    <span> - </span>
-    <h4 class="post-title" style="display: inline; margin: 0;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+  <article class="post-preview" style="display: flex; align-items: baseline; gap: 8px;">
+    <time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+      {{ .Date.Format "2006-01-02" }}
+    </time>
+    <span>-</span>
+    <h4 style="margin: 0;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
   </article>
   {{- end -}}
 </section>
