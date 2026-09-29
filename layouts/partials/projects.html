@@ -8,7 +8,7 @@
     <article class="project-preview">
         {{- if .Params.image }}
         <a href="{{ .RelPermalink }}" class="project-image-link">
-            <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+            <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy">
         </a>
         {{- end }}
         <div class="project-content">

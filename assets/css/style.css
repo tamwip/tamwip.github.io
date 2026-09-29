@@ -486,6 +486,63 @@ header+figure {
     font-style: italic;
 }
 
+/* Portfolio projects */
+
+.projects {
+    margin-top: 1rem;
+}
+
+.year-heading {
+    font-size: 1.25rem;
+    color: var(--color-text-strong);
+    margin-bottom: 1.5rem;
+    margin-top: 2rem;
+}
+
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1rem;
+}
+
+.project-preview {
+    background: transparent;
+}
+
+.project-image-link img {
+    width: 100%;
+    aspect-ratio: 4/3;
+    object-fit: cover;
+    border-radius: var(--border-radius-small);
+    transition: opacity 0.2s ease;
+}
+
+.project-image-link:hover img {
+    opacity: 0.85;
+}
+
+.project-content {
+    margin-top: 0.5rem;
+}
+
+.project-content h4 {
+    margin: 0;
+    font-size: 1rem;
+    line-height: 1.2;
+}
+
+.project-content a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.project-description {
+    color: var(--color-subtext);
+    font-size: 0.85rem;
+    margin: 0.25rem 0 0;
+    line-height: 1.4;
+}
+
 /* Single posts/pages */
 
 .single-header {
@@ -507,3 +564,4 @@ header+figure {
 a:hover {
     color: #5e81ac;
   }
+

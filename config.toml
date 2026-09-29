@@ -3,6 +3,7 @@ title = "TAMIR"
 
 [permalinks]
     post = "/blog/:slug"
+    project = "/work/:slug"
 
 [menu]
 
