@@ -22,7 +22,13 @@ Core design restraints and theoretical understandings to be implemented:
 - Sensing the most important factors and determining their impact to skin risk based on skin conditions
   - *How do environmental factors affect skin differently depending on a users's unique skin conditions?*
   - *How will a weighted algorithm change based on what skin condition the user has?*
+- Providing insights over just raw data
+  - *How can the data be portrayed in an easy to understand metric?*
+  - *What do certain values actually mean for the skin?*
+  - *What should users do in response certain sensor values?*
 - Being light in weight to be packaged in an unobtrusive, wearable form factor
   - *How does this affect component choice?*
   - *Where can the device sit on the body to be unobtrustive, have low friction to be carried with a user everyday and get clear and consistent readings from the environment?*
-- 
+
+### HARDWARE DESIGN
+#### CURRENT PROTOTYPE
