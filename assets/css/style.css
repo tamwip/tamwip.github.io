@@ -565,3 +565,12 @@ a:hover {
     color: #5e81ac;
   }
 
+/* tables */
+
+table th {
+  text-align: left !important;
+}
+
+table td {
+  text-align: left !important;
+}

@@ -30,7 +30,7 @@ This project found its footing through biweekly design reviews with a dermatolog
 #### KEY FINDINGS
 
 | **Insight** | **Design Response** |
-|-------------|---------------------|
+|---------|-----------------|
 | 83.3% of users rated phototherapy as "most effective" but complained about limited body coverage | Modular system adaptable to face, back, chest, limbs |
 | "Ease of use" emerged as #1 device selection criterion | Single-button operation, automatic 5-minute shutdown |
 | 50% of users willing to pay £100–£199 | Target retail pricing aligned with mass-market affordability |
@@ -64,7 +64,7 @@ Each module is a 50 × 50 mm hexagon containing six LEDs. Modules snap together 
 A systematic scoring matrix ranked materials against several criteria (impact resistance, UV resistance, skin safety, heat resistance, biodegradability, recyclability).
 
 | **Material** | **Total Score** |
-|--------------|-----------------|
+|----------|-------------|
 | PETG | **23** |
 | TPU | 21 |
 | PHA | 21 |
@@ -82,13 +82,13 @@ The enclosure splits responsibilities:
 #### POWER BUDGET
 
 | **Component** | **Current** | **Voltage** | **Power** |
-|---------------|-------------|-------------|-----------|
+|-----------|---------|---------|-------|
 | Blue LEDs × 3 | 75mA | 3.2V | 240mW |
 | Red LEDs × 3 | 75mA | 2.1V | 158mW |
 | Status LED | 2mA | 2.0V | 4mW |
 | ATtiny85 MCU | 1mA | 3.7V | 3.7mW |
 | **Total** | **155mA** | **3.7V** | **~413mW** |
-\
+
 A 200mAh LiPo cell provides 12+ treatment sessions per charge. Each module also carries a 30 × 15mm monocrystalline solar panel (5.5V, ≥150mA) providing trickle-charge topping-up during ambient light exposure, extending autonomy for a device worn under natural light conditions.
 
 #### TREATMENT PROTOCOL
@@ -97,7 +97,7 @@ A 200mAh LiPo cell provides 12+ treatment sessions per charge. Each module also 
 - 5-minute automated session with green status LED confirmation
 - Temporary medical adhesive secures the array for the treatment duration (~10 minutes to apply and remove)
 
-![Exploded CAD assembly showing PCB, battery, LEDs and housing](images/cad-exploded.png =x500)
+<img src="/images/cad-exploded.png" alt="Exploded CAD assembly showing PCB, battery, LEDs and housing" width="auto" height="500">
 
 ---
 
