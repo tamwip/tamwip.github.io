@@ -71,7 +71,7 @@ A systematic scoring matrix ranked materials against several criteria (impact re
 | ABS | 17 |
 | PLA | 15 |
 | SLA resin | 10 |
-\
+
 PETG was chosen for its combination of durability, skin safety and recyclability. rPETG (recycled PETG) or bio-PETG variants were flagged for future production runs to enhance circularity.
 
 The enclosure splits responsibilities:
