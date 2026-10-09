@@ -97,7 +97,7 @@ A 200mAh LiPo cell provides 12+ treatment sessions per charge. Each module also 
 - 5-minute automated session with green status LED confirmation
 - Temporary medical adhesive secures the array for the treatment duration (~10 minutes to apply and remove)
 
-<img src="/images/cad-exploded.png" alt="Exploded CAD assembly showing PCB, battery, LEDs and housing" width="auto" height="500">
+![Exploded CAD assembly showing PCB, battery, LEDs and housing](images/cad-exploded.png)
 
 ---
 
