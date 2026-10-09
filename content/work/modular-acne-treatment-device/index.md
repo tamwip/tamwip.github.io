@@ -19,7 +19,7 @@ Beyond fit, current devices are often disposable in nature and tethered to charg
 
 ### RESEARCH & CO-DESIGN WITH CLINICIANS
 
-This project wouldn't have survived without grounding in real user experience and clinical expertise.
+This project found its footing through biweekly design reviews with a dermatologist, who gathered patient reactions to each iteration. Those indirect voices, filtered through clinical expertise but grounded in real treatment experiences, kept every decision anchored in what actually matters to users.
 
 #### PRIMARY USER RESEARCH
 
@@ -29,8 +29,7 @@ This project wouldn't have survived without grounding in real user experience an
 
 #### KEY FINDINGS
 
-| Insight | Design Response |
-|---------|-----------------|
+| **Insight** | **Design Response** |
 | 83.3% of users rated phototherapy as "most effective" but complained about limited body coverage | Modular system adaptable to face, back, chest, limbs |
 | "Ease of use" emerged as #1 device selection criterion | Single-button operation, automatic 5-minute shutdown |
 | 50% of users willing to pay £100–£199 | Target retail pricing aligned with mass-market affordability |
@@ -63,15 +62,14 @@ Each module is a 50 × 50 mm hexagon containing six LEDs. Modules snap together 
 
 A systematic scoring matrix ranked materials against several criteria (impact resistance, UV resistance, skin safety, heat resistance, biodegradability, recyclability).
 
-| Material | Total Score |
-|----------|-------------|
+| **Material** | **Total Score** |
 | PETG | **23** |
 | TPU | 21 |
 | PHA | 21 |
 | ABS | 17 |
 | PLA | 15 |
 | SLA resin | 10 |
-
+\
 PETG was chosen for its combination of durability, skin safety and recyclability. rPETG (recycled PETG) or bio-PETG variants were flagged for future production runs to enhance circularity.
 
 The enclosure splits responsibilities:
@@ -81,14 +79,13 @@ The enclosure splits responsibilities:
 
 #### POWER BUDGET
 
-| Component | Current | Voltage | Power |
-|-----------|---------|---------|-------|
+| **Component** | **Current** | **Voltage** | **Power** |
 | Blue LEDs × 3 | 75mA | 3.2V | 240mW |
 | Red LEDs × 3 | 75mA | 2.1V | 158mW |
 | Status LED | 2mA | 2.0V | 4mW |
 | ATtiny85 MCU | 1mA | 3.7V | 3.7mW |
 | **Total** | **155mA** | **3.7V** | **~413mW** |
-
+\
 A 200mAh LiPo cell provides 12+ treatment sessions per charge. Each module also carries a 30 × 15mm monocrystalline solar panel (5.5V, ≥150mA) providing trickle-charge topping-up during ambient light exposure, extending autonomy for a device worn under natural light conditions.
 
 #### TREATMENT PROTOCOL
