@@ -12,10 +12,14 @@ description: "LED-based modular acne treatment system allowing users to create c
 
 ![Final hexagonal module design assembled into a shoulder configuration](images/hex-hero.jpg)
 
+---
+
 ### THE PROBLEM
 Acne vulgaris is one of the most prevalent dermatological conditions worldwide, affecting adolescents and a significant proportion of adults. Yet home-use phototherapy devices remain fixed in form, assuming one shape fits every face. Rigid masks fail to conform to individual anatomy, leaving some areas undertreated or missed entirely, while handheld wands can't efficiently cover larger zones like the back. Available devices rarely accommodate the reality that treatment needs change, from spot-treating small crevices of the face to covering broad body areas, forcing users to buy separate products for each scenario.
 
 Beyond fit, current devices are often disposable in nature and tethered to charging infrastructure, raising concerns about electronic waste and long-term sustainability. None deliver a treatment system that adapts to the user rather than the reverse. This project addresses that gap by combining hexagonal, snap-together modularity into a streamlined, solar-powered solution that reconfigures treatment geometry on demand, letting users compose small patches or large arrays from the same system while minimising environmental impact through recycled and repairable components.
+
+---
 
 ### RESEARCH & CO-DESIGN WITH CLINICIANS
 
